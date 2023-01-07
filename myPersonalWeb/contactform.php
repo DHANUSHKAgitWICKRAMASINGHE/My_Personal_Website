@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <script src="./stylep.css"></script>
+    <link rel="stylesheet" href="./stylep.css">
 </head>
 <body>
 <?php
@@ -48,7 +48,8 @@ if (isset($_REQUEST['send'])){
 
       echo "<h2>Enter Your Message</h2>";
       echo "<br>";
-      echo "<input type='submit' value='BACK' name='send'>";
+      echo "<input type='submit' value='BACK' name='send' >";
+      echo "<a href='./indexp.html' class='cta'>BACK</a>";
       echo "</form>";
       echo "</div>";
       echo "</div>";
