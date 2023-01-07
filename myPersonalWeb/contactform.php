@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./stylep.css">
 </head>
 <body>
+     
 <?php
 // $connection = mysqli_connect('localhost','root');
 // mysqli_select_db($connection,"myperweb");
@@ -48,8 +49,8 @@ if (isset($_REQUEST['send'])){
 
       echo "<h2>Enter Your Message</h2>";
       echo "<br>";
-      echo "<input type='submit' value='BACK' name='send' >";
-      echo "<a href='./indexp.html' class='cta'>BACK</a>";
+    //   echo "<input type='submit' value='BACK' name='send' >";
+      echo "<a href='./indexp.html' class='cta'><font color ='black'>BACK</font></a>";
       echo "</form>";
       echo "</div>";
       echo "</div>";
