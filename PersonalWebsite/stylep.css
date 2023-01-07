@@ -823,6 +823,14 @@
      margin-bottom: 50px;
      
  }
+ /* #contact .contact-items2 input{
+    margin: 5px 0px;
+    padding: 10px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 5px;
+    
+} */
  #contact .contact-item2{
      width: 80%;
      padding: 20px;
@@ -879,6 +887,21 @@
      line-height: 2rem;
      font-weight: 499;
  }
+ /* #xxx {
+    margin: 5px 0px;
+    padding: 10px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 5px;
+} */
+/* #contact .contact-info input {
+    margin: 5px 0px;
+    padding: 10px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 5px;
+} */
+
  /* end Contact Section */
  
  

@@ -42,12 +42,12 @@ if (isset($_REQUEST['send'])){
       echo "<div class='contact-item2'>";
       echo "<div class='icon'><img class='iconimg2' src='./img/Untitled.png' /></div>";
       echo "<div class='contact-info'>";
-      echo "<h1>Send Message</h1>";
+      echo "<h1>Message send.</h1>";
       echo "<form method='post' action='./indexp.html'>";
 
           
 
-      echo "<h2>Enter Your Message</h2>";
+      echo "<h2>Go back to the website</h2>";
       echo "<br>";
     //   echo "<input type='submit' value='BACK' name='send' >";
       echo "<a href='./indexp.html' class='cta'><font color ='black'>BACK</font></a>";
